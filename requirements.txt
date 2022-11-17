@@ -62,7 +62,7 @@ nbconvert==6.0.7
 nbformat==5.0.7
 nest-asyncio==1.4.1
 notebook==6.1.4
-numpy==1.18.5
+numpy==1.22.2
 oauthlib==3.1.0
 opt-einsum==3.3.0
 packaging==20.4
@@ -72,7 +72,7 @@ parso==0.7.1
 partd==1.1.0
 pathspec==0.8.0
 pickleshare==0.7.5
-Pillow==7.2.0
+Pillow==9.2.0
 prometheus-client==0.8.0
 prompt-toolkit==3.0.7
 protobuf==3.13.0
