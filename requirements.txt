@@ -118,7 +118,7 @@ threadpoolctl==2.1.0
 tokenizers==0.8.1
 toml==0.10.1
 toolz==0.11.1
-tornado==6.0.4
+tornado==6.3.3
 tqdm==4.50.1
 traitlets==5.0.4
 transformers==3.3.1
@@ -127,7 +127,7 @@ typing-extensions==3.7.4.3
 urllib3==1.25.11
 wcwidth==0.2.5
 webencodings==0.5.1
-Werkzeug==1.0.1
+Werkzeug==3.0.1
 widgetsnbextension==3.5.1
 wrapt==1.12.1
 zict==2.0.0
