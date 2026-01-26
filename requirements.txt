@@ -19,7 +19,7 @@ colorama==0.4.3
 dask==2.30.0
 decorator==4.4.2
 defusedxml==0.6.0
-distributed==2.30.0
+distributed==2026.1.0
 entrypoints==0.3
 filelock==3.0.12
 fsspec==0.8.3
@@ -102,7 +102,7 @@ sacremoses==0.0.43
 scikit-learn==0.23.2
 scipy==1.5.2
 Send2Trash==1.5.0
-sentencepiece==0.1.91
+sentencepiece==0.2.1
 six==1.15.0
 sklearn==0.0
 sortedcontainers==2.2.2
@@ -131,3 +131,4 @@ Werkzeug==1.0.1
 widgetsnbextension==3.5.1
 wrapt==1.12.1
 zict==2.0.0
+wheel>=0.46.2 # not directly required, pinned by Snyk to avoid a vulnerability
